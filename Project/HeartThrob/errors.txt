@@ -2,9 +2,7 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 76: Line is indented, but the preceding show statement statement does not expect a block. Please check this line's indentation.
-    return
-    ^
+File "game/screens.rpy", line 328: indentation mismatch.
 
 Ren'Py Version: Ren'Py 7.0.0.196
-Sun Jul 01 22:53:13 2018
+Thu Jul 12 04:18:59 2018
